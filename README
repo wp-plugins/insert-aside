@@ -17,7 +17,7 @@ given paragraph.
        For example, this is text explaining that the author is using
        far too many words to be useful.
 
-This plugin allows users to write [aside]commentary[aside] and have it
+This plugin allows users to write [aside]commentary[/aside] and have it
 rendered appropriately.
 
 == Installation ==
