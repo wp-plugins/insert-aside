@@ -38,3 +38,12 @@ No questions have been asked.
 == Screenshots ==
 
 No screenshots are available.
+
+== Future Plans ==
+
+1) Perhaps: convert to a state machine so that we can do 
+checks for matching open and closing aside blocks.
+
+2) Add in an admin page to allow edits for the stylesheet.
+
+3) Allow optional titling for the aside blocks.
